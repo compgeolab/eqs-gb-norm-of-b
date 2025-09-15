@@ -9,16 +9,17 @@ by
 This repository contains the data and source code used to produce the results
 presented in:
 
-> Uppal, I., Uieda, L., Oliveira Jr., V. C., Holme, R. (2025). Transforming
-> Total Field Anomaly into Anomalous Magnetic Field: Using Dual-Layer
-> Gradient-Boosted Equivalent Sources. EarthArXiv.
-> doi:[10.31223/X58B1Q](https://doi.org/10.31223/X58B1Q)
+> Uppal, I., Uieda, L., Oliveira Jr., V. C., Holme, R. (2025). Dual-Layer
+> Gradient-Boosted Equivalent Sources for Magnetic Data. *Geophysical Journal
+> International*.
+> doi:[10.1093/gji/ggaf359](https://doi.org/10.1093/gji/ggaf359)
 
 |  | Info |
 |-:|:-----|
-| Version of record | https://doi.org/JOURNAL_DOI |
+| Version of record | https://doi.org/10.1093/gji/ggaf359 |
 | Open-access version on EarthArXiv | https://doi.org/10.31223/X58B1Q |
 | Archive of this repository | https://doi.org/10.5281/zenodo.15120458 |
+| Software Heritage ID | [`swh:1:snp:3a0940be13637428a5dcd79957cdfc786473abf6`](https://archive.softwareheritage.org/swh:1:snp:3a0940be13637428a5dcd79957cdfc786473abf6;origin=https://github.com/compgeolab/eqs-magnetic-dual-layer) |
 | Reproducing our results | [`REPRODUCING.md`](REPRODUCING.md) |
 
 ## About
