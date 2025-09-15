@@ -18,7 +18,7 @@ presented in:
 |-:|:-----|
 | Version of record | https://doi.org/10.1093/gji/ggaf359 |
 | Open-access version on EarthArXiv | https://doi.org/10.31223/X58B1Q |
-| Archive of this repository | https://doi.org/10.5281/zenodo.15120458 |
+| Archive of this repository | https://doi.org/10.5281/zenodo.15120457 |
 | Software Heritage ID | [`swh:1:snp:3a0940be13637428a5dcd79957cdfc786473abf6`](https://archive.softwareheritage.org/swh:1:snp:3a0940be13637428a5dcd79957cdfc786473abf6;origin=https://github.com/compgeolab/eqs-magnetic-dual-layer) |
 | Reproducing our results | [`REPRODUCING.md`](REPRODUCING.md) |
 
